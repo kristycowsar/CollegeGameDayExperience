@@ -1,0 +1,45 @@
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Logs
+*.log 
+
+# OS-specific files
+.DS-Store
+Thumbs.db
+
+# Environment files
+.Environment
+
+# Spring Boot
+target/
+*.db
+*.h2.db
+
+# Temporary files
+*.Temp 
+*.swp 
+
+# Test reports
+test-output/
+surefire-reports/
+
+# Dependency directories
+node_modules/
